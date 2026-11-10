@@ -1,0 +1,21 @@
+# Build
+[Bb]in/
+[Oo]bj/
+publish/
+*.zip
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configurações locais que não devem ser versionadas
+appsettings.Production.json
+appsettings.*.local.json
+
+# Pastas que pertencem a outros repositórios
+FarmaECiaFlutter/
+documentacao/
